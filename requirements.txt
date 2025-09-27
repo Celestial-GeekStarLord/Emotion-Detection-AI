@@ -1,0 +1,11 @@
+numpy==1.23.5
+opencv-python==4.7.0.72
+tensorflow==2.12.0
+keras==2.12.0
+flask
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
+plotly
