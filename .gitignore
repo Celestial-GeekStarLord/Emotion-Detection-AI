@@ -4,3 +4,6 @@ venv/
 .venv/
 Data_Sets
 Data_Sets/
+ML_Models
+ML_Models/
+best_model.h5
